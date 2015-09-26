@@ -1,0 +1,69 @@
+<resources>
+
+    <string name="app_name">Android Wave</string>
+    <string name="inbox_name">Inbox</string>
+    <string name="new_wave_name">Create Wave</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="inbox_string">Inbox</string>
+    <string name="sing_out_string">Inbox</string>
+
+    <string name="search_name">Search</string>
+
+    <string name="search_hint">Search wave</string>
+
+    <string name="action_search">Search</string>
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+
+    <string name="nav_item_home">Inbox</string>
+    <string name="nav_item_friends">Friends</string>
+    <string name="nav_item_notifications">Waves</string>
+    <string name="nav_item_signout">Sign out</string>
+
+    <!-- navigation drawer item labels  -->
+    <string-array name="nav_drawer_labels">
+        <item>@string/nav_item_home</item>
+        <item>@string/nav_item_friends</item>
+        <item>@string/nav_item_notifications</item>
+        <item>@string/nav_item_signout</item>
+    </string-array>
+
+    <string name="title_messages">Waves</string>
+    <string name="title_friends">Friends</string>
+    <string name="title_home">Inbox</string>
+    <string name="title_signout">Sign out</string>
+
+    <string-array name="friend_names">
+        <item>Ali</item>
+        <item>Roshan</item>
+        <item>Evan</item>
+        <item>Grobmeier</item>
+        <item>Upayavira</item>
+        <item>Blossom</item>
+        <item>Michael</item>
+        <item>Pablo</item>
+        <item>Yuri</item>
+        <item>Dain</item>
+    </string-array>
+
+    <string-array name="friend_names2">
+        <item>>wave message from Ali</item>
+        <item>>wave message from Roshan</item>
+        <item>>wave message from Evan</item>
+        <item>>wave message from Grobmeier</item>
+        <item>>wave message from Upayavira</item>
+        <item>>wave message from Blossom</item>
+        <item>>wave message from Michael</item>
+        <item>>wave message from Pablo</item>
+        <item>>wave message from Yuri</item>
+        <item>>wave message from Dain</item>
+    </string-array>
+
+    <string name="title_new_wave_forworad">Forward</string>
+
+
+
+</resources>

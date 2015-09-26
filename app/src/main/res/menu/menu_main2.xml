@@ -1,0 +1,13 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".MainActivity">
+
+    <item
+        android:id="@+id/action_forward"
+        android:title="@string/title_new_wave_forworad"
+        android:orderInCategory="100"
+        android:icon="@drawable/ic_arrow_forward_white_2"
+        app:showAsAction="ifRoom" />
+
+</menu>

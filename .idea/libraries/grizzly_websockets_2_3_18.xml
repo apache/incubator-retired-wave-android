@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="grizzly-websockets-2.3.18">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/libs/grizzly-websockets-2.3.18.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal">
+
+
+    <ImageButton
+        android:paddingTop="10dp"
+        android:id="@+id/button_back"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:src="@drawable/ic_action_search_back"
+        android:layout_alignParentLeft="true"
+        android:text="Button"/>
+
+    <ImageButton
+        android:paddingTop="10dp"
+        android:id="@+id/button_forward"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_alignParentRight="true"
+        android:src="@drawable/ic_action_search_forward"
+        android:text="Button"/>
+
+    <AutoCompleteTextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_toRightOf="@+id/button_back"
+        android:layout_toLeftOf="@id/button_forward"
+        android:id="@+id/searchWave"
+        android:hint="@string/search_hint"
+
+        />
+
+
+
+</RelativeLayout>
