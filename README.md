@@ -26,6 +26,6 @@ A full list of gradle tasks can be found by running:
 To learn more about Wave and the Wave Protocols:
 ------
 1. Subscribe to the wave-dev mailing list, find instructions at http://incubator.apache.org/wave/mailing-lists.html.
-2. Take a look at the developer docs at https://incubator.apaceh.org/wave/documentation.html
+2. Take a look at the developer docs at https://incubator.apache.org/wave/documentation.html
 3. Visit the Apache Wave wiki at https://cwiki.apache.org/confluence/display/WAVE/Home.
 
